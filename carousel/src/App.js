@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          testing from new branch
+         merging to main branch
         </p>
         <a
           className="App-link"
